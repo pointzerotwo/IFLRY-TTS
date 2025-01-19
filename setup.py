@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="iflry-tts",
     version="0.1.0",
-    description="IFLRY-branded live translation and TTS system.",
+    description="IFLRY live translation and TTS system.",
     author="IFLRY",
     packages=find_packages(),
     install_requires=[
