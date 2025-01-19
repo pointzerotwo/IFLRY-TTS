@@ -1,0 +1,8 @@
+torch
+transformers
+soundfile
+numpy
+pynput
+sounddevice
+librosa
+art
